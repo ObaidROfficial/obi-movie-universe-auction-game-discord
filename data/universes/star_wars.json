@@ -1,0 +1,10 @@
+[
+  {"title": "Star Wars", "type": "movie"},
+  {"title": "The Empire Strikes Back", "type": "movie"},
+  {"title": "Return of the Jedi", "type": "movie"},
+  {"title": "Rogue One", "type": "movie"},
+  {"title": "Star Wars: The Force Awakens", "type": "movie"},
+  {"title": "The Mandalorian", "type": "series"},
+  {"title": "Andor", "type": "series"},
+  {"title": "Ahsoka", "type": "series"}
+]
